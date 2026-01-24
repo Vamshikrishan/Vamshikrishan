@@ -7,7 +7,9 @@
 # 📊 GitHub Stats:
 ![Vamshi Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=VamshiKrishna&show_icons=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api?username=Vamshikrishan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![GitHub Streak](https://streak-stats.demolab.com?user=VamshiKrishna&theme=radical)
 ![](https://nirzak-streak-stats.vercel.app/?user=Vamshikrishan&theme=dark&hide_border=false)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VamshiKrishna&layout=compact&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vamshikrishan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
