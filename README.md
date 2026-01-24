@@ -29,32 +29,40 @@
 ---
 
 # 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Vamshikrishan&show_icons=true&theme=radical)
 
-![Streak](https://streak-stats.demolab.com?user=Vamshikrishan&theme=radical)
+<!-- REAL DYNAMIC STATS -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vamshikrishan&show_icons=true&theme=radical)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vamshikrishan&layout=compact&theme=radical)
+<!-- DAILY STREAK -->
+![GitHub Streak](https://streak-stats.demolab.com?user=Vamshikrishan&theme=radical)
+
+<!-- TOP LANGUAGES -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vamshikrishan&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Vamshikrishan&theme=radical)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Vamshikrishan&theme=radical&margin-w=10)
 
 ---
 
-### 📈 Activity Graph
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vamshikrishan&theme=react-dark)
+## 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vamshikrishan&theme=react-dark)
 
 ---
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-### 🔝 Top Contributed Repo
-![Repos](https://github-contributor-stats.vercel.app/api?username=Vamshikrishan&limit=5&theme=dark)
+## 🔝 Top Contributed Repositories
+
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=Vamshikrishan&limit=5&theme=dark)
 
 ---
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=Vamshikrishan&icon=0&color=0)
+![Profile Views](https://visitcount.itsvg.in/api?id=Vamshikrishan&icon=0&color=0)
