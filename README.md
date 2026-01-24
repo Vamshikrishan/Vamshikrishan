@@ -1,4 +1,4 @@
-## 🌐 Socials:
+## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1304009698894413828)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/i_am_vamshi_052/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamshi-krishna-a4ba0a350/)
@@ -6,7 +6,7 @@
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,36 +29,31 @@
 ---
 
 # 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Vamshikrishan&show_icons=true&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vamshikrishan&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Streak](https://streak-stats.demolab.com?user=Vamshikrishan&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Vamshikrishan&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vamshikrishan&layout=compact&theme=radical)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vamshikrishan&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Vamshikrishan&theme=radical&no-frame=true&margin-w=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Vamshikrishan&theme=radical)
 
 ---
 
 ### 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vamshikrishan&theme=react-dark&height=300)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vamshikrishan&theme=react-dark)
 
 ---
 
 ### ✍️ Random Dev Quote
-
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
 ### 🔝 Top Contributed Repo
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Vamshikrishan&limit=5&theme=dark)
+![Repos](https://github-contributor-stats.vercel.app/api?username=Vamshikrishan&limit=5&theme=dark)
 
 ---
 
