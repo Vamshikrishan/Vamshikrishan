@@ -30,7 +30,7 @@
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vamshikrishan&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vamshikrishan&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Vamshikrishan&theme=radical)
 
@@ -40,7 +40,13 @@
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Vamshikrishan&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Vamshikrishan&theme=radical&no-frame=true&margin-w=15)
+
+---
+
+### 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vamshikrishan&theme=react-dark&height=300)
 
 ---
 
@@ -50,15 +56,9 @@
 
 ---
 
-### 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vamshikrishan&theme=react-dark)
-
----
-
 ### 🔝 Top Contributed Repo
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Vamshikrishan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=Vamshikrishan&limit=5&theme=dark)
 
 ---
 
