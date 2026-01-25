@@ -30,11 +30,9 @@
 
 # 📊 GitHub Stats
 
-<!-- REAL DYNAMIC STATS -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vamshikrishan&show_icons=true&theme=radical)
+[![Vamshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vamshikrishan&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- DAILY STREAK -->
-![GitHub Streak](https://streak-stats.demolab.com?user=Vamshikrishan&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vamshikrishan&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <!-- TOP LANGUAGES -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vamshikrishan&layout=compact&theme=radical)
