@@ -28,39 +28,21 @@
 
 ---
 
-# 📊 GitHub Stats
-
-[![Vamshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vamshikrishan&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vamshikrishan&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-<!-- TOP LANGUAGES -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vamshikrishan&layout=compact&theme=radical)
-
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Vamshikrishan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Vamshikrishan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vamshikrishan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Vamshikrishan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Vamshikrishan&theme=radical&margin-w=10)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## 📈 Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vamshikrishan&theme=react-dark)
-
----
-
-## ✍️ Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Vamshikrishan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Vamshikrishan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🔝 Top Contributed Repositories
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Vamshikrishan&limit=5&theme=dark)
-
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=Vamshikrishan&icon=0&color=0)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
