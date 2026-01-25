@@ -36,9 +36,10 @@
 ## 🏅 Achievements
 
 <a href="https://github.com/Vamshikrishan?tab=achievements">
-  <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/achievements/yolo-default.png"
+  <img src="https://raw.githubusercontent.com/dawidolko/Github-Badges-Achievements/main/assets/img/Yolo.png"
        alt="YOLO GitHub Achievement" width="80">
 </a>
+
 
 
 ## 🏆 GitHub Trophies
