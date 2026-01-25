@@ -37,6 +37,10 @@
 
 ![](https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/YOLO/PNG/YOLO_Badge.png)
 
+## 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vamshikrishan&theme=react-dark)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vamshikrishan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
